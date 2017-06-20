@@ -1,1 +1,1 @@
-include ':app', ':netlib', ':database', ':utilcode', ':base' , ':zxing'
+include ':app', ':utilcode', ':zxing'
